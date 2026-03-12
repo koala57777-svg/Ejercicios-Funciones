@@ -12,7 +12,7 @@ Console.WriteLine("Ingrese la base del rectángulo: ");
 Console.WriteLine();
 b=double.Parse(Console.ReadLine());
 Console.WriteLine();
-if (a<0 && b<0)
+if (a<0 || b<0)
 {
     Console.WriteLine("Datos inválidos. Por favor ingrese valores positivos.");
 }
