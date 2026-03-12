@@ -22,3 +22,4 @@ Console.WriteLine();
 double resultado=TotalCompra(cantidadproductos);
 Console.WriteLine();
 Console.WriteLine($"El total de las compras es: Q{resultado}");
+Console.WriteLine();
