@@ -6,6 +6,6 @@ double Doble(double a)
 
 Console.WriteLine("Ingrese un número: ");
 Console.WriteLine();
-a=int.Parse(Console.ReadLine());
+a=double.Parse(Console.ReadLine());
 Console.WriteLine();
 Console.WriteLine($"El doble del número es: {Doble(a)}");
