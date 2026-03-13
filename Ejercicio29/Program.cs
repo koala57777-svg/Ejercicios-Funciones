@@ -14,5 +14,5 @@
         CantidadEstudiantesCurso();
     }
 }
-
+Console.WriteLine();
 CantidadEstudiantesCurso();
